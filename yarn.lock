@@ -1287,7 +1287,7 @@
   dependencies:
     "@docusaurus/core" "2.0.0-alpha.69"
 
-"@docusaurus/plugin-sitemap@2.0.0-alpha.69":
+"@docusaurus/plugin-sitemap@2.0.0-alpha.69", "@docusaurus/plugin-sitemap@^2.0.0-alpha.69":
   version "2.0.0-alpha.69"
   resolved "https://registry.npmjs.org/@docusaurus/plugin-sitemap/-/plugin-sitemap-2.0.0-alpha.69.tgz#ffda02b4be468b3dfeed8fde3c2f2971ee839078"
   integrity sha512-DqrXm1PiWWNN5wbY1iVg0sdkCL3KZEj7uyjmZfXIfMQaEF2ErqJDY07QAwANrl27huPQmmc9tYwW3FqgKbVlbA==

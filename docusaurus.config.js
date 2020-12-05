@@ -8,6 +8,17 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'gooin', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
+  plugins: [
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        cacheTime: 600 * 1000, // 600 sec - cache purge period
+        changefreq: 'weekly',
+        priority: 0.5,
+        trailingSlash: false,
+      },
+    ],
+  ],
   themeConfig: {
     gtag: {
         trackingID: 'G-YSW0W8R9NR',
@@ -93,13 +104,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/gooin/blog',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/gooin/blog/tree/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
