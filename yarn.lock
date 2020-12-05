@@ -1280,7 +1280,7 @@
   dependencies:
     "@docusaurus/core" "2.0.0-alpha.69"
 
-"@docusaurus/plugin-google-gtag@2.0.0-alpha.69":
+"@docusaurus/plugin-google-gtag@2.0.0-alpha.69", "@docusaurus/plugin-google-gtag@^2.0.0-alpha.69":
   version "2.0.0-alpha.69"
   resolved "https://registry.npmjs.org/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-alpha.69.tgz#b6d9c77e99f60dbffe2622f0567fce589bc420b3"
   integrity sha512-mDAKBRkB3UJMuAUPqC43mNr8PPu3QuUbCLisJIvg7VMp9XoAcOImNZWmY2Smd+Law2tJkW3cBFPvm3fcVvJ1vA==

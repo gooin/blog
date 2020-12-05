@@ -9,6 +9,11 @@ module.exports = {
   organizationName: 'gooin', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
+    gtag: {
+        trackingID: 'G-YSW0W8R9NR',
+        // Optional fields.
+        // anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: 'Zhitao的博客',
       logo: {
