@@ -1,9 +1,11 @@
-# Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2696ca9-a2e7-4895-aa9f-dd5673d577ed/deploy-status)](https://app.netlify.com/sites/gooin/deploys)
+
+
+# Zhitao的博客
+
+## Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
-
-## Zhitao的博客
-
 
 ## Installation
 
