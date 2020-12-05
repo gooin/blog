@@ -9,15 +9,6 @@ module.exports = {
   organizationName: 'gooin', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   plugins: [
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        cacheTime: 600 * 1000, // 600 sec - cache purge period
-        changefreq: 'weekly',
-        priority: 0.5,
-        trailingSlash: false,
-      },
-    ],
   ],
   themeConfig: {
     gtag: {
@@ -117,5 +108,14 @@ module.exports = {
         },
       },
     ],
+    [
+        '@docusaurus/plugin-sitemap',
+        {
+          cacheTime: 600 * 1000, // 600 sec - cache purge period
+          changefreq: 'weekly',
+          priority: 0.5,
+          trailingSlash: false,
+        },
+      ],
   ],
 };
