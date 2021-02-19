@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Zhitao的博客',
   tagline: 'Beat Yesterday.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://blog.gooin.win',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -95,13 +95,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/gooin/blog',
+            'https://github.com/gooin/blog/blob/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/gooin/blog/tree/main/blog',
+            'https://github.com/gooin/blog/blob/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

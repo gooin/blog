@@ -2,7 +2,7 @@
 id: edit-chrome-flags-in-files
 title: Chrome修改flags配置文件
 sidebar_label:  Chrome修改flags配置文件
-slug: /notes
+slug: /notes/edit-chrome-flags-in-files
 ---
 
 ###  Chrome修改flags后崩溃无法启动修改默认配置
