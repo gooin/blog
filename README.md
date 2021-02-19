@@ -5,7 +5,7 @@
 
 >>>
 
-[https://gooin.win](https://gooin.win)
+[https://blog.gooin.win](https://blog.gooin.win)
 
 
 

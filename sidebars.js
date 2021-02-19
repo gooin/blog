@@ -1,6 +1,7 @@
 module.exports = {
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-  },
+    someSidebar: {
+        Notes: ['others/edit-chrome-flags-in-files'],
+        Docusaurus: ['doc1', 'doc2', 'doc3'],
+        Features: ['mdx'],
+    },
 };
