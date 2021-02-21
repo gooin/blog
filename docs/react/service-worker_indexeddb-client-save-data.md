@@ -59,12 +59,9 @@ localforage.setItem('key', 'value', doSomethingElse);
 
 ###  初始化项目
 
-#### 使用 `fantas-cli` 初始化
+#### 使用命令行初始化
 
-初始化并运行
-
-![image-20210202175542419](https://cdn.jsdelivr.net/gh/crexk/pic-archive@main/picgo/image-20210202175542419.png)
-
+略
 #### 配置service-worker.js
 在`client`目录下新建`servier-worker.js`文件，暂时先留空。
 然后在`client/index.tsx`中新增如下内容
@@ -304,18 +301,6 @@ const precache = async () => {
             })
 ```
 
-### 范例程序
-
-
-
-http://192.168.198.162/yanzt/fantasy-start-example-serviceworker-indexeddb 
-
-
-
-首页使用的地图组件为： `client/pages/map/BaseMap.tsx`
-
-可以克隆到本地查看~
-
-
+### 效果
 
 ![image-20210202174131185](https://cdn.jsdelivr.net/gh/crexk/pic-archive@main/picgo/image-20210202174131185.png)
