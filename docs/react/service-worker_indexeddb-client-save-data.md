@@ -2,7 +2,7 @@
 id: service-worker-indexeddb-client-save-data
 title: serviceworker-indexedDB 客户端缓存数据
 sidebar_label:  serviceworker-indexedDB 客户端缓存数据
-slug: /
+# slug: /
 ---
 
 
