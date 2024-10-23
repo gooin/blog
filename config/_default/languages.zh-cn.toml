@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "zh-CN"
+languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
 title = "Zhitao's Blog"
 
 [params]
 displayName = "中文"
-isoCode = "zh-CN"
+isoCode = "zh-cn"
 rtl = false
 dateFormat = "2006-01-02"
 
