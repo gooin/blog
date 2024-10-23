@@ -1,4 +1,4 @@
 baseURL = 'https://vyzt.dev'
-languageCode = 'zh-cn'
+languageCode = 'zh-CN'
 title = "Zhitao's Blog"
 timeZone = "Asia/Chongqing"

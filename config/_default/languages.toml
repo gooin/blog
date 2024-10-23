@@ -1,7 +1,0 @@
-[languages]
-  [languages.zh-cn]
-    disabled = false
-    languageCode = "zh-cn"
-    languageName = "中文"
-    weight = 1
-    title = "Zhitao's Blog"
