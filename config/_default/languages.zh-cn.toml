@@ -1,0 +1,21 @@
+disabled = false
+languageCode = "zh-cn"
+languageName = "中文"
+weight = 1
+title = "Zhitao's Blog"
+
+[params]
+displayName = "中文"
+isoCode = "zh-cn"
+rtl = false
+dateFormat = "2006-01-02"
+
+[params.author]
+name = "Yan Zhitao"
+headline = "A Web/GIS Developer, and a runner"
+image = "profile.png"
+bio = "A Web/GIS Developer, and a runner"
+links = [
+  { github = "https://github.com/gooin" },
+  { strava = "https://www.strava.com/athletes/84396978" }
+]
