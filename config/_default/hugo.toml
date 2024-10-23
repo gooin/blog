@@ -6,6 +6,7 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://your_domain.com/"
 baseURL = 'https://vyzt.dev'
 defaultContentLanguage = "zh-cn"
+languageCode = 'zh-cn'
 isCJKLanguage = true
 timeZone = "Asia/Chongqing"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
