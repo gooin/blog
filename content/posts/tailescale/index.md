@@ -1,6 +1,6 @@
 ---
 title: "TailScale 自建 derper 中继服务器 caddy+docker快速配置"
-date: 2023-12-11
+date: 2024-12-11
 draft: false
 description: "TailScale 自建 derper中继服务器"
 tags: ["tailscale", "tools"]
